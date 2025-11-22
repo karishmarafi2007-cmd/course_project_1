@@ -4,18 +4,12 @@ ___
 
 ******ABSTRACT******
 
-      The Employee Management System is a console-based application developed in the C programming language to efficiently manage employee records within an
-      organization. The system provides essential operations such as adding, viewing, searching, updating, and deleting employee details. Each employee record 
-      includes personal and professional information such as ID, Name, Age, Gender, Department, Salary, Phone Number, Email, and Address. The project uses file handling 
-      to permanently store employee data in a binary file (employees.dat), allowing information to remain saved even after the program is closed. The system loads 
-      all records at startup and updates the file after every change, ensuring data consistency. A menu-driven interface makes the system user-friendly and easy 
-      to navigate, even for non-technical users.This project demonstrates effective use of structures, arrays, file operations, and modular programming in C. It 
-   provides a simple yet practical solution for small businesses or educational purposes to maintain employee information systematically.
+ The Employee Management System is a console-based application developed in the C programming language to efficiently manage employee records within an organization. The system provides essential operations such as adding, viewing, searching, updating, and deleting employee details. Each employee record   includes personal and professional information such as ID, Name, Age, Gender, Department, Salary, Phone Number, Email, and Address. The project uses file handling to permanently store employee data in a binary file (employees.dat), allowing information to remain saved even after the program is closed. The   system loads  all records at startup and updates the file after every change, ensuring data consistency. A menu-driven interface makes the system user-  friendly and easy  to navigate, even for non-technical users.This project demonstrates effective use of structures, arrays, file operations, and modular   programming in C. It  provides a simple yet practical solution for small businesses or educational purposes to maintain employee information systematically. 
 
-
-
-
+ ____
+ 
 ******FEATURES******
+
 
 **1. Add New Employee**
 
@@ -49,6 +43,8 @@ Easy navigation using a number-based menu
 
 
 ******TECHINAL REQUIREMENTS FOR THE CODE******
+
+___
 
 **a)Hardware Requirements**
 
@@ -99,8 +95,9 @@ Uses only standard C libraries:
 
 
 
-******FUNCTIONAL REQUIREMENTS OF THE CODE
-******
+******FUNCTIONAL REQUIREMENTS OF THE CODE******
+
+___
 
 **1. Add Employee**
 
@@ -159,6 +156,8 @@ Continuously shows options:
 
 
 ******HOW TO RUN A CODE******
+
+___
 
 **Option 1: Run Using GCC (Recommended)**
 
@@ -236,4 +235,41 @@ Step 4: Run the program
 
 gcc employee_management.c -o employee_management
 ./employee_management
+## SCREENSHORTS ##
+**1) MAIN MENU.**
 
+<p align="center">
+  <img src="https://github.com/karishmarafi2007-cmd/course_project_1/blob/44eb12afbf6f97cce2f9f8768259fc0998a04b7f/SC1.jpg" width="500"<p align="center">
+  <img src="screenshots/search_patient.png" width="400">
+</p>
+
+**2)ADDING ON EMPLOYEE.**
+<p align="center">
+  <img src="https://github.com/karishmarafi2007-cmd/course_project_1/blob/44eb12afbf6f97cce2f9f8768259fc0998a04b7f/SC2.jpg" width="400">
+</p>
+
+**3)VIEWING ALL EMPLOYEES**
+
+<p align="center">
+  <img src="https://github.com/karishmarafi2007-cmd/course_project_1/blob/44eb12afbf6f97cce2f9f8768259fc0998a04b7f/SC3.jpg" width="400">
+</p>
+
+**4)SEARCHING FOR AN EMPLOYEE**
+
+<p align="center">
+  <img src="https://github.com/karishmarafi2007-cmd/course_project_1/blob/44eb12afbf6f97cce2f9f8768259fc0998a04b7f/SC4.jpg" width="400">
+</p>
+
+**5)UPDATING EMPLOYEE DETAILS**
+
+<p align="center">
+  <img src="https://github.com/karishmarafi2007-cmd/course_project_1/blob/44eb12afbf6f97cce2f9f8768259fc0998a04b7f/SC5.jpg" width="400">
+</p>
+
+**6)DELEATING AN EMPLOYEE**
+
+<p align="center">
+  <img src="https://github.com/karishmarafi2007-cmd/course_project_1/blob/44eb12afbf6f97cce2f9f8768259fc0998a04b7f/SC6.jpg" width="400">
+</p>
+
+# <h2 align="center"> THE END </h2>
