@@ -165,7 +165,7 @@ Step 1: Save the Code
 
 Save the program as:
 
-employee_management.c
+employee_management.c(here i saved the code in emp.c)
 
 Step 2: Open Terminal / Command Prompt
 
